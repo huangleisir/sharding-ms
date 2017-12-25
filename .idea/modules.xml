@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/masterslave/masterslave.iml" filepath="$PROJECT_DIR$/masterslave/masterslave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingms/shardingms.iml" filepath="$PROJECT_DIR$/shardingms/shardingms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingroot.iml" filepath="$PROJECT_DIR$/shardingroot.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: masterslave
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: cmy
+Implementation-Vendor-Id: com.steven
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/sharding-roo
+ t/masterslave/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
